@@ -1,0 +1,57 @@
+{
+    "name": "Wall-E",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.49",
+        "tag": "v1.12.49",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b39eda27ca91b27b57fc1f30c6b3b33d3fc2029",
+        "target": "1.12.49",
+        "pxt": "8.5.60",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#FF2121",
+        "#8F5015",
+        "#C78722",
+        "#F6B62D",
+        "#F8EE64",
+        "#53BAF5",
+        "#287DF4",
+        "#87F2FF",
+        "#8E2EC4",
+        "#EBEBEB",
+        "#C8C8C8",
+        "#686868",
+        "#505056",
+        "#000000"
+    ]
+}
